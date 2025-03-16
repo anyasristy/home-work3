@@ -23,7 +23,6 @@ button:hover {
   background-color: #45a049;
 }
 
-/* Header Styles */
 header {
   background-color: darkolivegreen;
   color: white;
@@ -31,7 +30,6 @@ header {
   text-align: center;
 }
 
-/* Footer Styles */
 footer {
   text-align: center;
   padding: 10px;
@@ -42,7 +40,6 @@ footer {
   width: 100%;
 }
 
-/* Contact Form Styles */
 .contact-container {
   margin: 20px;
   padding: 20px;
@@ -80,7 +77,6 @@ footer {
   background-color: #45a049;
 }
 
-/* Counter Section Styles */
 section {
   padding: 20px;
   margin: 20px 0;
@@ -97,7 +93,6 @@ section p {
   color: #555;
 }
 
-/* Project Section Styles */
 ul {
   list-style-type: none;
   padding-left: 0;
